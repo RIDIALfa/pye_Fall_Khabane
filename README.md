@@ -1,2 +1,0 @@
-# ProjetPython
-mes applications python
